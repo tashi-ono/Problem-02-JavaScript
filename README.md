@@ -1,5 +1,17 @@
 # Count Duplicates Problem
 
+Before you get started make sure to install the needed modules in node by running 
+
+```
+node i
+```
+
+Then to run the unit test use the command 
+
+```
+npm test
+```
+
 In the following challenge you are given the following class
 
 ```
